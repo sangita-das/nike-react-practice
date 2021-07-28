@@ -1,0 +1,24 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+
+.banner{
+    background:#FFF9F4;
+}
+.headline{
+    color: #FA804C;
+}
+header{
+    
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.icon-image{
+    width: 78px;
+    height: 82px;
+}
+
+
